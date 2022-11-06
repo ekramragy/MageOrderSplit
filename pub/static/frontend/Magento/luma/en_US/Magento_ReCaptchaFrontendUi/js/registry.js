@@ -1,0 +1,1 @@
+/Users/ekramragy/Desktop/www/magento245/vendor/magento/module-re-captcha-frontend-ui/view/frontend/web/js/registry.js

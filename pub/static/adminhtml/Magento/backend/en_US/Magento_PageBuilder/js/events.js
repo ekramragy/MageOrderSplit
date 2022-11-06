@@ -1,0 +1,1 @@
+/Users/ekramragy/Desktop/www/magento245/vendor/magento/module-page-builder/view/base/web/js/events.js

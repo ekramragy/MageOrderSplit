@@ -1,0 +1,1 @@
+/Users/ekramragy/Desktop/www/magento245/vendor/magento/module-checkout/view/frontend/web/js/view/minicart.js
