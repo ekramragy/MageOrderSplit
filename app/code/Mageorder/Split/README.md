@@ -34,4 +34,3 @@ php bin/magento c:f
 ```
 
 
-
