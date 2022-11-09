@@ -3,7 +3,7 @@
 This module split customer/guest orders based on Brand Split orders save as normal orders but with parent order. Also, it kept the original order.
 ### This Module allows below features
 - Enable/Disable module from configuration.
-- Orders splitting based on a selected attribute from the configuration.
+- Orders splitting based on a Brand attribute from the configuration.
 - Original order kept.
 - New orders created after original order created automatically
 - Adding a new order attribute (Parent Order) to new orders
@@ -11,9 +11,7 @@ This module split customer/guest orders based on Brand Split orders save as norm
 
 ### Download directly
 - Download it
-- Upload it using ftp account to app/code/MageArab/OrderSplit/[module files]
-
-
+- Upload it using ftp account to app/code/Mageorder/Split/[module files]
 
 ## 2. Activation
 
