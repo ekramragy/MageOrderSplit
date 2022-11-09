@@ -1,0 +1,8 @@
+{
+  "sales_order": {
+    "column": {
+      "parent_id": true
+    }
+  }
+}
+
